@@ -9,7 +9,7 @@ This project monitors temperature and humidity conditions inside a warehouse usi
 - NodeMCU ESP8266
 - DHT11 Temperature and Humidity Sensor
 - Jumper wires
-- Power supply
+- USB Power supply
 
 ## Software Requirements
 
