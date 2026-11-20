@@ -65,7 +65,7 @@ const char* topic = "YOUR_TOPIC_ID";
 [Smart Warehouse Humidity Monitoring Using KiwisIoT](https://www.hackster.io/harispidy07/smart-warehouse-humidity-monitoring-using-kiwisiot-f780f9)
 
 **KiwisIoT Platform:**  
-[https://kiwisiot.com/](https://kiwisiot.com/)
+[https://kiwisiot.in/](https://kiwisiot.in/)
 
 **KiwisIoT GitHub Repository:**  
 [https://github.com/Kiwistron/KiwisIoT-Projects](https://github.com/Kiwistron/KiwisIoT-Projects)
